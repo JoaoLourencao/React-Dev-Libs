@@ -19,8 +19,8 @@ Repository with libs and tools for web development in React.
 - RN Elements - https://github.com/react-native-elements/react-native-elements
 - NativeBase - https://github.com/GeekyAnts/NativeBase
 
-### Repositórios de códigos (Code Repos)
-- JIRA - https://www.atlassian.com/br/software/jira
+### Code Repos
+- Free For Dev - https://free-for.dev/
 
 ### Google Chrome extensions
 - ColorZilla, color picker - https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp
