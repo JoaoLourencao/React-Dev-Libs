@@ -19,6 +19,9 @@ Repository with libs and tools for web development in React.
 - RN Elements - https://github.com/react-native-elements/react-native-elements
 - NativeBase - https://github.com/GeekyAnts/NativeBase
 
+### React Frameworks
+- Next.JS - https://nextjs.org
+
 ### Code Repos
 - Free For Dev - https://free-for.dev/
 
