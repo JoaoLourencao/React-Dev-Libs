@@ -21,6 +21,11 @@ Repository with libs and tools for web development in React.
 
 ### React Frameworks
 - Next.JS - https://nextjs.org
+- ViteJS - https://pt.vitejs.dev
+- Gatsby - https://www.gatsbyjs.com/docs (para projetos maiores e mais consolidados)
+
+Como escolher Next.JS VS ViteJS
+Next.js é ideal para projetos que requerem forte otimização para mecanismos de busca (SEO) e renderizar páginas importantes rapidamente, graças à renderização no lado do servidor. É adequado para sites com conteúdo dinâmico. Já o Vite.js é recomendado para projetos que buscam menor carga no servidor e um fluxo de trabalho de desenvolvimento rápido, enfatizando a renderização do lado do cliente, sendo apropriado para aplicações de página única (SPAs) com conteúdo estático significativo.
 
 ### Code Repos
 - Free For Dev - https://free-for.dev/
