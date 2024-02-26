@@ -1,7 +1,7 @@
 # React-Dev-Libs
 Repository with libs and tools for web development in React and React Native.
 
-# React Native 
+# React 
 
 ### UI Components
 - Ant Design - https://ant.design/
