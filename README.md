@@ -1,5 +1,5 @@
 # React-Dev-Libs
-Repository with libs and tools for web development in React and React Native.
+Repository with libs and tools for web development in React and mobile development in React Native.
 
 # React 
 
